@@ -1,4 +1,4 @@
-# Proyecto_2-redDeAmistadEAFIT-
+// Proyecto_2-redDeAmistadEAFIT-
 
 //Joseph Buenaños
 //Cristian Buitrago 
